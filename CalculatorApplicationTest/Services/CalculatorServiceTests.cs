@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace CalculatorApplication.Tests
+
+    //added test cases for unit test
 {
     [TestClass()]
     public class CalculatorServiceTests
@@ -18,6 +20,8 @@ namespace CalculatorApplication.Tests
             calculatorService = new CalculatorService();
         }
         #endregion
+
+        //addition test cases
 
         #region AdditionTestScenarios
         [TestMethod()]
@@ -100,6 +104,7 @@ namespace CalculatorApplication.Tests
         }
         #endregion
 
+        //subtraction test cases
 
         #region SubtractionTestScenarios
         [TestMethod()]
@@ -181,6 +186,8 @@ namespace CalculatorApplication.Tests
         }
         #endregion
 
+        // Multiplication test cases
+
         #region MultiplicationTestScenarios
         [TestMethod()]
         public void MultiplicationTestScenario1()
@@ -260,6 +267,8 @@ namespace CalculatorApplication.Tests
             Assert.AreEqual(Response, 598521533707515.2);
         }
         #endregion
+
+        // Division Test cases
 
         #region DivisionTestScenarios
         [TestMethod()]
