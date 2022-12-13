@@ -18,13 +18,3 @@ C:/Users/alekh/OneDrive/Documents/New folder/CalculatorApplication/CalculatorApp
 C:/Users/alekh/OneDrive/Documents/New folder/CalculatorApplication/CalculatorApplication/CalculatorLibrary/obj/Debug/netstandard2.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
 C:/Users/alekh/OneDrive/Documents/New folder/CalculatorApplication/CalculatorApplication/CalculatorLibrary/obj/Debug/netstandard2.0/CalculatorLibrary.dll
 C:/Users/alekh/OneDrive/Documents/New folder/CalculatorApplication/CalculatorApplication/CalculatorLibrary/obj/Debug/netstandard2.0/CalculatorLibrary.pdb
-/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorLibrary/bin/Debug/netstandard2.0/CalculatorLibrary.deps.json
-/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorLibrary/bin/Debug/netstandard2.0/CalculatorLibrary.dll
-/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorLibrary/bin/Debug/netstandard2.0/CalculatorLibrary.pdb
-/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorLibrary/obj/Debug/netstandard2.0/CalculatorLibrary.csproj.AssemblyReference.cache
-/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorLibrary/obj/Debug/netstandard2.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
-/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorLibrary/obj/Debug/netstandard2.0/CalculatorLibrary.AssemblyInfoInputs.cache
-/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorLibrary/obj/Debug/netstandard2.0/CalculatorLibrary.AssemblyInfo.cs
-/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorLibrary/obj/Debug/netstandard2.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
-/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorLibrary/obj/Debug/netstandard2.0/CalculatorLibrary.dll
-/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorLibrary/obj/Debug/netstandard2.0/CalculatorLibrary.pdb
