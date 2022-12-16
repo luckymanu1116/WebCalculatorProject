@@ -5,6 +5,8 @@ using System.Linq;
 
 namespace CalculatorLibrary
 {
+
+    //getting user input and validating with the functions
     public class CalculatorService : ICalculatorService
     {
         public double Result;

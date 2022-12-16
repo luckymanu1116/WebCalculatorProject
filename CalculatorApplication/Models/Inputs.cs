@@ -7,6 +7,7 @@ namespace CalculatorApplication.Models
 {
     public class Inputs
     {
+        // taking user input for calculations
         public List<double> ListofValues { get; set; }
     }
 }

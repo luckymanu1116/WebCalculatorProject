@@ -56,3 +56,36 @@ C:/Users/alekh/OneDrive/Documents/New folder/CalculatorApplication/CalculatorApp
 C:/Users/alekh/OneDrive/Documents/New folder/CalculatorApplication/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.dll
 C:/Users/alekh/OneDrive/Documents/New folder/CalculatorApplication/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.pdb
 C:/Users/alekh/OneDrive/Documents/New folder/CalculatorApplication/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.genruntimeconfig.cache
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/CalculatorApplication.StaticWebAssets.xml
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/CalculatorApplication
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/CalculatorApplication.deps.json
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/CalculatorApplication.runtimeconfig.json
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/CalculatorApplication.runtimeconfig.dev.json
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/CalculatorApplication.dll
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/CalculatorApplication.pdb
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/CalculatorLibrary.dll
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/bin/Debug/netcoreapp3.1/CalculatorLibrary.pdb
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.csproj.AssemblyReference.cache
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.AssemblyInfoInputs.cache
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.AssemblyInfo.cs
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.csproj.CoreCompileInputs.cache
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.MvcApplicationPartsAssemblyInfo.cs
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.MvcApplicationPartsAssemblyInfo.cache
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/staticwebassets/CalculatorApplication.StaticWebAssets.Manifest.cache
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/staticwebassets/CalculatorApplication.StaticWebAssets.Pack.cache
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.CalculatorApplication.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.CalculatorApplication.props
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.CalculatorApplication.props
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.CalculatorApplication.props
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.RazorTargetAssemblyInfo.cache
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.csproj.CopyComplete
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.dll
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.pdb
+/Users/manojreddy/Desktop/CalculatorWebProject/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.genruntimeconfig.cache

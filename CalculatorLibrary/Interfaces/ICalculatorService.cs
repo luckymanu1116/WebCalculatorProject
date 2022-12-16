@@ -6,6 +6,8 @@ namespace CalculatorLibrary.Interfaces
 {
     public interface ICalculatorService
     {
+        // user interface
+
         double Addition(List<double> ListofValues);
 
         double Subtraction(List<double> ListofValues);

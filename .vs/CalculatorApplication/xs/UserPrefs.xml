@@ -1,32 +1,31 @@
 ﻿<Properties StartupConfiguration="{7A2468A2-11EC-475F-834B-5DAEA4F69581}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.CalculatorApplication PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorApplicationTest/Services/CalculatorServiceTests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorLibrary/Interfaces/ICalculatorService.cs">
     <Files>
-      <File FileName="CalculatorApplication/Startup.cs" Line="38" Column="20" />
+      <File FileName="CalculatorApplication/Startup.cs" />
       <File FileName="CalculatorApplication/Program.cs" />
       <File FileName="CalculatorApplication/Controllers/CalculatorController.cs" Line="1" Column="1" />
-      <File FileName="CalculatorApplicationTest/Services/CalculatorServiceTests.cs" Line="45" Column="1" />
-      <File FileName="CalculatorLibrary/Interfaces/ICalculatorService.cs" />
-      <File FileName="CalculatorLibrary/Services/CalculatorService.cs" />
-      <File FileName="CalculatorApplication/Models/Inputs.cs" Line="1" Column="1" />
+      <File FileName="CalculatorApplicationTest/Services/CalculatorServiceTests.cs" Line="271" Column="31" />
+      <File FileName="CalculatorLibrary/Interfaces/ICalculatorService.cs" Line="10" Column="1" />
+      <File FileName="CalculatorLibrary/Services/CalculatorService.cs" Line="28" Column="15" />
+      <File FileName="CalculatorApplication/Models/Inputs.cs" Line="10" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CalculatorApplication" expanded="True">
+          <Node name="CalculatorApplication" expanded="True" selected="True">
             <Node name="CalculatorApplication" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
             </Node>
             <Node name="CalculatorApplicationTest" expanded="True">
-              <Node name="Services" expanded="True">
-                <Node name="CalculatorServiceTests.cs" selected="True" />
-              </Node>
+              <Node name="Services" expanded="True" />
             </Node>
             <Node name="CalculatorLibrary" expanded="True">
               <Node name="Interfaces" expanded="True" />
@@ -37,5 +36,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

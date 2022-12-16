@@ -9,7 +9,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CalculatorApplication.Controllers
-{
+
+{   //swagger api controller implementation
     [Route("api/[controller]")]
     [ApiController]
     public class CalculatorController : ControllerBase
@@ -23,6 +24,8 @@ namespace CalculatorApplication.Controllers
 
         [HttpPost]
         [Route("Add")]
+
+        // for additions
         public IActionResult Add(Inputs inputs)
         {
             try
@@ -38,6 +41,8 @@ namespace CalculatorApplication.Controllers
 
         [HttpPost]
         [Route("Subtract")]
+
+        //for subtractions
         public IActionResult Subtract(Inputs inputs)
         {
             try
@@ -53,6 +58,8 @@ namespace CalculatorApplication.Controllers
 
         [HttpPost]
         [Route("Multiplicate")]
+
+        //for multiplications
         public IActionResult Multiplicate(Inputs inputs)
         {
             try
@@ -68,6 +75,8 @@ namespace CalculatorApplication.Controllers
 
         [HttpPost]
         [Route("Divide")]
+
+        // for divisions
         public IActionResult Divide(Inputs inputs)
         {
             try
