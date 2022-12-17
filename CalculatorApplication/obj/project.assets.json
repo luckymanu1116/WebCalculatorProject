@@ -508,7 +508,7 @@
           },
           {
             "name": "Microsoft.NETCore.App.Host.osx-x64",
-            "version": "[3.1.31, 3.1.31]"
+            "version": "[3.1.32, 3.1.32]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
@@ -523,7 +523,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
