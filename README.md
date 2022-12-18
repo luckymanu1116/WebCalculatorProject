@@ -11,3 +11,6 @@ screenshots
 <img width="1387" alt="sc3" src="https://user-images.githubusercontent.com/38257926/208251821-b3fb0219-922e-436d-b1ed-b94f0b7f445b.png">
 
 <img width="1395" alt="sc4" src="https://user-images.githubusercontent.com/38257926/208251832-6de620c0-3400-4944-b2cb-d5b08c45330e.png">
+
+The main branch was older version of .net and the updated branch has .net6 version 
+
